@@ -20,18 +20,7 @@
     font-size: 55px;
   }
 
-  .copyr{
-    color: black;
-    float: right;
-    margin-right: 25px;
-    
-    
-  }
-  a:hover,a:active{
-    background-color:darkblue
-    color:white;
-  }
-  
+
   
   .box{
     width: 100%;
